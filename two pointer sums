@@ -1,4 +1,4 @@
-VALID PLAINDROME:(EASY)
+125.VALID PLAINDROME:(EASY)
 class Solution {
     public boolean isPalindrome(String s) {
      int left=0;
@@ -20,7 +20,7 @@ class Solution {
         return true;       
     }
 }
-TWO SUM II- INPUT ARRAY IS SORTED(EASY)
+167.TWO SUM II- INPUT ARRAY IS SORTED(EASY)
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n=numbers.length;
@@ -41,7 +41,7 @@ class Solution {
         return new int[]{-1,-1};
     }
 }
-REVERSE STRING(EASY)
+344.REVERSE STRING(EASY)
 class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
