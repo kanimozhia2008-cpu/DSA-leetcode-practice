@@ -71,7 +71,7 @@ class Solution {
     }   
     }
 }
-345.REVERSE VOWELS OF A SIRING
+345.REVERSE VOWELS OF A SIRING(EASY)
 class Solution {
     public String reverseVowels(String s) {
         char[] arr = s.toCharArray();
