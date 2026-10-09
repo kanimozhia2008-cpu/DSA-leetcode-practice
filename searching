@@ -34,7 +34,7 @@ class Solution {
       return st;
     }
 }
-35.SQRT(X):(EASY)
+69.SQRT(X):(EASY)
      class Solution {
     public int mySqrt(int x) {
         int left=0;
