@@ -20,7 +20,7 @@ class Solution {
         return true;       
     }
 }
-167.TWO SUM II- INPUT ARRAY IS SORTED(EASY)
+167.TWO SUM II- INPUT ARRAY IS SORTED(EASY):
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n=numbers.length;
@@ -41,7 +41,7 @@ class Solution {
         return new int[]{-1,-1};
     }
 }
-344.REVERSE STRING(EASY)
+344.REVERSE STRING:(EASY)
 class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
@@ -56,7 +56,7 @@ class Solution {
         }
     }
 }
-284.MOVE ZEROES
+284.MOVE ZEROES:(EASY)
 class Solution {
     public void moveZeroes(int[] nums) {
     int n=nums.length;
@@ -71,7 +71,7 @@ class Solution {
     }   
     }
 }
-345.REVERSE VOWELS OF A SIRING(EASY)
+345.REVERSE VOWELS OF A SIRING:(EASY)
 class Solution {
     public String reverseVowels(String s) {
         char[] arr = s.toCharArray();
@@ -99,7 +99,7 @@ class Solution {
                c == 'O' || c == 'U';
     }
 }
-977.SQUARES OF  A SORTED ARRAY
+977.SQUARES OF  A SORTED ARRAY:(EASY)
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
@@ -116,7 +116,7 @@ class Solution {
                     nums[j + 1] = temp;
                 }
             }
-392.IS SUBSEQUENCE(EASY)
+392.IS SUBSEQUENCE:(EASY)
 class Solution {
     public boolean isSubsequence(String s, String t) {
         int i = 0;
