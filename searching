@@ -57,7 +57,7 @@ class Solution {
         return ans;
     }
 }
-774.FIND SMALLEST LETTER GREATER THAN TARGET
+774.FIND SMALLEST LETTER GREATER THAN TARGET:(EASY)
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
 
@@ -78,7 +78,7 @@ class Solution {
         return letters[st];
     }
 }
-734.GUESS NUMBER HIGHER OR LOWER:(EASY)
+374.GUESS NUMBER HIGHER OR LOWER:(EASY)
 /** 
  * Forward declaration of guess API.
  * @param  num   your guess
